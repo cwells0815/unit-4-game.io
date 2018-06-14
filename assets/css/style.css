@@ -1,0 +1,33 @@
+body {
+    background-image: url('../images/background.jpg');
+    background-size: cover;
+  }
+  
+  .banner-crystals {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .banner-crystals img {
+    width: 500px;
+    height: auto;
+    border: 5px solid rgba(158, 8, 8, 0.788);
+  }
+  
+  .instructions {
+    font-family: 'Philosopher', sans-serif;
+    font-weight: bolder;
+    border: 20px solid rgba(158, 8, 8, 0.788);
+    padding: 20px;
+    margin: 20px;
+  }
+  .crystalButton {
+    text-align: center;
+    height: 120px;
+    border: 5px solid rgba(158, 8, 8, 0.788);
+  }
+  
+  #pointsToMatch {
+    height: 75px;
+    width: 235px;
+  }
